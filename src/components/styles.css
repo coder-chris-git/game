@@ -1,0 +1,14 @@
+/* .column {
+  display: flex;
+} */
+
+.tablerow {
+  /* -webkit-column-count: 3;
+  -moz-column-count: 3;
+  -webkit-column-gap: 50px; /* Chrome/Opera, Safari */
+}
+
+/* Clear floats after the columns */
+
+TableRow {
+}
